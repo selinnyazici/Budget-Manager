@@ -10,13 +10,13 @@
 }
 
 .buttons{
-    width: 300px; /* Butonun genişliği */
-    height: 40px; /* Butonun yüksekliği */
-    color: white; /* Buton metninin rengi */
-    border: none; /* Butonun kenarlığı */
-    border-radius: 5px; /* Kenarların yuvarlaklığı */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    width: 300px; 
+    height: 40px; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer; 
     transition: background-color 0.3s ease;
 }
 
@@ -29,32 +29,32 @@
 }
 
 .header-style{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Özel bir font ailesi kullanır */
-    color: #065e29; /* Metin rengini turuncu yapar */
-    padding: 10px 20px; /* İçerik etrafında boşluk bırakır */
-    border-radius: 5px; /* Kenarları yuvarlar */
-    transition: all 0.3s ease; /* Tüm değişimlerde geçiş efekti ekler */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #065e29; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    transition: all 0.3s ease; 
 }
 
 .login-inputs{
-    width: 300px; /* Butonun genişliği */
-    height: 40px; /* Butonun yüksekliği */
-    color: rgb(0, 0, 0); /* Buton metninin rengi */
-    border-radius: 5px; /* Kenarların yuvarlaklığı */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor:auto; /* Fare imlecini el simgesine çevirir */
+    width: 300px; 
+    height: 40px; 
+    color: rgb(0, 0, 0); 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor:auto; 
     margin: 3px
 
 }
 
 .login-buttons{
-    width: 300px; /* Butonun genişliği */
-    height: 40px; /* Butonun yüksekliği */
-    color: white; /* Buton metninin rengi */
-    border: none; /* Butonun kenarlığı */
-    border-radius: 5px; /* Kenarların yuvarlaklığı */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    width: 300px; 
+    height: 40px; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer; 
     transition: background-color 0.3s ease;
     margin: 5px
 }
@@ -67,23 +67,23 @@
 }
 
 .signin-inputs{
-    width: 300px; /* Butonun genişliği */
-    height: 30px; /* Butonun yüksekliği */
-    color: rgb(0, 0, 0); /* Buton metninin rengi */
-    border-radius: 5px; /* Kenarların yuvarlaklığı */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor:auto; /* Fare imlecini el simgesine çevirir */
+    width: 300px; 
+    height: 30px; 
+    color: rgb(0, 0, 0); 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor:auto; 
 
 }
 
 .signin-buttons{
-    width: 300px; /* Butonun genişliği */
-    height: 40px; /* Butonun yüksekliği */
-    color: white; /* Buton metninin rengi */
-    border: none; /* Butonun kenarlığı */
-    border-radius: 5px; /* Kenarların yuvarlaklığı */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    width: 300px; 
+    height: 40px; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    font-size: 16px; 
+    cursor: pointer; 
     transition: background-color 0.3s ease;
     margin: 15px;
 }
@@ -103,10 +103,10 @@
 }
 
 .verify-button{
-    width: 150px; /* Butonun genişliği */
-    height: 38px; /* Butonun yüksekliği */
-    font-size: 16px; /* Buton metninin boyutu */
-    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    width: 150px; 
+    height: 38px; 
+    font-size: 16px; 
+    cursor: pointer; 
     margin: 15px;
     position: relative;
     top: 23px;
