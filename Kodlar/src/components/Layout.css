@@ -1,0 +1,99 @@
+.sider-title{
+  background-color: rgba(4, 48, 20, 0.8);
+  color: rgba(4, 48, 20, 0.8);
+}
+
+.header-right{
+    position: relative;
+    height: 100;
+}
+
+.profile-page-container{
+  display: flex;
+  justify-content:flex-start;
+  align-items: flex-start;
+  height: 100vh;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.profile-page-button{
+  padding-top: 10px;
+}
+
+.loading{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.5);
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.income-welcome{
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 15px;
+  border-radius: 5px;
+  border: 2px solid gray;
+  padding: 20px;
+  width: 1250px;
+  margin-top: 10px;
+}
+
+.income-summary-text{
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.green-word{
+  font-size: 30px;
+  color: green;
+  font-weight: 700;
+}
+
+.red-word{
+  font-size: 30px;
+  color: red;
+  font-weight: 700;
+}
+
+.expenses-total{
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgb(206, 215, 228);
+  padding: 20px;
+}
+
+.center{
+  text-align: center;
+  padding-top: 80vh;
+}
+
+.incomes-header{
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 40px;
+}
+
+.border-container{
+  border: 2px solid gray;
+  margin: 10px;
+  padding: 30px;
+}
+
+.income-list{
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.expense-list{
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 40px;
+}

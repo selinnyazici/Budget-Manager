@@ -1,0 +1,119 @@
+.App {
+    text-align: center;
+  }
+  
+.center-page {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+}
+
+.buttons{
+    width: 300px; /* Butonun genişliği */
+    height: 40px; /* Butonun yüksekliği */
+    color: white; /* Buton metninin rengi */
+    border: none; /* Butonun kenarlığı */
+    border-radius: 5px; /* Kenarların yuvarlaklığı */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    transition: background-color 0.3s ease;
+}
+
+.header{
+    margin: 30px
+}
+
+.progress{
+    margin: 15px
+}
+
+.header-style{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Özel bir font ailesi kullanır */
+    color: #065e29; /* Metin rengini turuncu yapar */
+    padding: 10px 20px; /* İçerik etrafında boşluk bırakır */
+    border-radius: 5px; /* Kenarları yuvarlar */
+    transition: all 0.3s ease; /* Tüm değişimlerde geçiş efekti ekler */
+}
+
+.login-inputs{
+    width: 300px; /* Butonun genişliği */
+    height: 40px; /* Butonun yüksekliği */
+    color: rgb(0, 0, 0); /* Buton metninin rengi */
+    border-radius: 5px; /* Kenarların yuvarlaklığı */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor:auto; /* Fare imlecini el simgesine çevirir */
+    margin: 3px
+
+}
+
+.login-buttons{
+    width: 300px; /* Butonun genişliği */
+    height: 40px; /* Butonun yüksekliği */
+    color: white; /* Buton metninin rengi */
+    border: none; /* Butonun kenarlığı */
+    border-radius: 5px; /* Kenarların yuvarlaklığı */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    transition: background-color 0.3s ease;
+    margin: 5px
+}
+
+.login-center-page {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 80vh;
+}
+
+.signin-inputs{
+    width: 300px; /* Butonun genişliği */
+    height: 30px; /* Butonun yüksekliği */
+    color: rgb(0, 0, 0); /* Buton metninin rengi */
+    border-radius: 5px; /* Kenarların yuvarlaklığı */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor:auto; /* Fare imlecini el simgesine çevirir */
+
+}
+
+.signin-buttons{
+    width: 300px; /* Butonun genişliği */
+    height: 40px; /* Butonun yüksekliği */
+    color: white; /* Buton metninin rengi */
+    border: none; /* Butonun kenarlığı */
+    border-radius: 5px; /* Kenarların yuvarlaklığı */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    transition: background-color 0.3s ease;
+    margin: 15px;
+}
+
+.signin-center-page{
+    display: Flex;
+    justify-content: center;
+      align-items: center;
+      height: 85vh;
+    gap: 10px
+}
+
+.telephone-input{
+    position: relative;
+    top: 28px;
+    width: 300px;
+}
+
+.verify-button{
+    width: 150px; /* Butonun genişliği */
+    height: 38px; /* Butonun yüksekliği */
+    font-size: 16px; /* Buton metninin boyutu */
+    cursor: pointer; /* Fare imlecini el simgesine çevirir */
+    margin: 15px;
+    position: relative;
+    top: 23px;
+}
+
+.signin-email{
+    position: relative;
+    top: 28px;
+    width: 300px;
+}
